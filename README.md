@@ -11,10 +11,10 @@ Este repositório contém os arquivos e passos usados para criar e configurar um
 - Teste de funcionamento
 
 ## Comandos usados
-service docker start
-docker pull nginx
-docker run -d -p 8080:80 --name meu_nginx nginx
-docker ps
+- service docker start
+- docker pull nginx
+- docker run -d -p 8080:80 --name meu_nginx nginx
+- docker ps
 
 ##Autoria
 
