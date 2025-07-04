@@ -1,5 +1,6 @@
 # TrueNAS SCALE Container Demo
 
+Atividade realizada na materia de Administração e Segurança de Redes de Computadores do curso superior Sistemas para Internet no IF campus Salgueiro.
 Este repositório contém os arquivos e passos usados para criar e configurar um contêiner Docker no TrueNAS SCALE, utilizando o servidor nginx.
 
 ## Etapas:
